@@ -1,7 +1,7 @@
 const CATEGORIES = {
     shorts: ['ytd-rich-shelf-renderer[is-shorts]', 'ytd-reel-shelf-renderer'],
     recommendations: ['#secondary'],
-    endScreen: ['.ytp-endscreen-content', '.ytp-ce-element'],
+    endScreen: ['.ytp-endscreen-content', '.ytp-ce-element', '.ytp-suggestion-set'],
     homeFeed: ['ytd-browse[page-subtype="home"] ytd-rich-grid-renderer'],
     comments: ['ytd-comments#comments', '#comment-teaser'],
     trending: ['ytd-browse[page-subtype="trending"] ytd-rich-grid-renderer'],
