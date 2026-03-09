@@ -2,7 +2,7 @@
 
 A lightweight Chrome extension that hides distracting elements on YouTube so you can stay focused on the content you came to watch.
 
-Six configurable distraction categories, all hidden by default:
+Five configurable distraction categories, all hidden by default:
 
 | Category        | What it hides                                    |
 |-----------------|--------------------------------------------------|
@@ -11,4 +11,3 @@ Six configurable distraction categories, all hidden by default:
 | End Screen      | End screen overlays and suggested video cards    |
 | Home Feed       | The entire home feed grid                        |
 | Comments        | Comment sections and comment teasers             |
-| Trending        | The trending page feed                           |
